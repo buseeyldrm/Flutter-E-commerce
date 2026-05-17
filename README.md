@@ -1,17 +1,43 @@
-# app
+# Mobil App E-Commerce
 
-A new Flutter project.
+## Proje Açıklaması
+Bu proje, Flutter kullanılarak geliştirilmiş bir e-ticaret mobil uygulamasıdır. Kullanıcılar ürünleri listeleyebilir, ürün detaylarını görüntüleyebilir, ürünleri favorilere ekleyebilir, sepete ürün ekleyebilir ve sepette bulunan ürünleri silebilir. Temel alışveriş deneyimini simüle eden kullanıcı dostu bir arayüz sunmaktadır.
 
-## Getting Started
+## Kullanılan Flutter Sürümü
+Flutter SDK: 3.22.2  
+Dart SDK: 3.4.3  
 
-This project is a starting point for a Flutter application.
+## Çalıştırma Adımları
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Repository'i klonlayın
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+```bash
+git clone https://github.com/buseeyldrm/Flutter-E-commerce.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Proje klasörüne girin
+
+```bash
+cd Flutter-E-commerce
+```
+
+### 3. Gerekli paketleri yükleyin
+
+```bash
+flutter pub get
+```
+
+### 4. Uygulamayı çalıştırın
+
+```bash
+flutter run
+```
+
+
+## Ekran Görüntüleri
+
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+![](screenshots/5.png)
